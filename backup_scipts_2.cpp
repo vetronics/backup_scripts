@@ -52,7 +52,7 @@ int main() {
 
 	// declarations section of variable
 
-	string menu_options[2] = { "1) copy folder projects ", "2) copy all informtion between the disks \n " };
+	string menu_options[2] = { "1) copy folder ", "2) copy all informtion between the disks \n " };
 
 	int unsigned option;
 
